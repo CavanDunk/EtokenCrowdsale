@@ -9,7 +9,7 @@ This project does not use the lastest version on truffle
 ```
 npm install -g truffle@4.1.15
 ```
-These Files are already included in the repo but were installed aswell
+These Files are needed for this program to compile and work aswell
 ```
 npm install web3@0.20.7
 npm install openzeppelin-solidity@1.10.0
